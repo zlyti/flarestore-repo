@@ -1,29 +1,29 @@
 {
-"name": "Mon Repo iOS",
-"identifier": "com.monrepo.apps",
-"subtitle": "Tweaks et Applications Sideload",
-"description": "Dépôt d'applications iOS compatibles AltStore / SideStore / FlareStore.",
-"website": "https://github.com/ra1ncord/RainTweak",
-"iconURL": "https://raw.githubusercontent.com/ra1ncord/RainTweak/main/assets/icon.png",
-"tintColor": "#5865F2",
-"apps": [
-{
-"name": "RainTweak",
-"bundleIdentifier": "com.ra1ncord.RainTweak",
-"developerName": "ra1ncord",
-"subtitle": "Tweak d'injection pour le client Rain Discord",
-"localizedDescription": "RainTweak est un tweak iOS développé par ra1ncord permettant d'injecter et d'exécuter la modification du client Rain dans l'application Discord officielle sur iOS.",
-"iconURL": "https://raw.githubusercontent.com/ra1ncord/RainTweak/main/assets/icon.png",
-"tintColor": "#5865F2",
-"versions": [
-{
-"version": "1.0.0",
-"date": "2026-09-17T00:00:00Z",
-"downloadURL": "https://github.com/ra1ncord/RainTweak/releases/latest/download/RainTweak.ipa",
-"size": 0,
-"localizedDescription": "Dernière version officielle de RainTweak téléchargeable via les Releases GitHub."
-}
-]
-}
-]
+  "name": "Mon Repo FlareStore",
+  "identifier": "com.monrepo.apps",
+  "subtitle": "Dépôt d'applications sideload",
+  "description": "Mon dépôt contenant RainTweak.",
+  "website": "https://github.com/ra1ncord/RainTweak",
+  "iconURL": "https://raw.githubusercontent.com/ra1ncord/RainTweak/main/assets/icon.png",
+  "tintColor": "#5865F2",
+  "apps": [
+    {
+      "name": "RainTweak",
+      "bundleIdentifier": "com.ra1ncord.RainTweak",
+      "developerName": "ra1ncord",
+      "subtitle": "Tweak d'injection pour le client Rain Discord",
+      "localizedDescription": "RainTweak est un tweak iOS développé par ra1ncord permettant d'injecter et d'exécuter la modification du client Rain dans l'application Discord officielle sur iOS.",
+      "iconURL": "https://raw.githubusercontent.com/ra1ncord/RainTweak/main/assets/icon.png",
+      "tintColor": "#5865F2",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "date": "2026-03-01T00:00:00Z",
+          "downloadURL": "https://github.com/ra1ncord/RainTweak/releases/latest/download/RainTweak.ipa",
+          "size": 0,
+          "localizedDescription": "Dernière version officielle de RainTweak téléchargeable via les Releases GitHub."
+        }
+      ]
+    }
+  ]
 }
